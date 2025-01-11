@@ -1,0 +1,4 @@
+site_name: Vazir AI Docs | مستندات فنی خدمات هوش مصنوعی وزیر
+site_url: https://docs.vazir.io/
+theme:
+  name: material
